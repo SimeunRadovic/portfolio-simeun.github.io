@@ -1,0 +1,200 @@
+/*header*/
+@media screen and (max-width:767px){
+    .logo{
+        margin-bottom:10px;
+    }
+    header nav ul li a{
+        font-size: 14px;
+    }
+    .logo a{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width:623px){
+    header nav ul li a{
+        font-size: 13px;
+    }
+    .logo a{
+        font-size: 16px;
+    }
+}
+@media screen and (max-width:459px){
+    header nav ul li a{
+        font-size: 10px;
+    }
+    .logo a{
+        font-size: 13px;
+    }
+}
+@media screen and (max-width:343px){
+    header nav ul li a{
+        font-size: 10px;
+    }
+    .logo a{
+        font-size: 12px;
+    }
+}
+/*header*/
+/*home*/
+@media screen and (max-width:629px){
+    .text-pocetna p{
+        font-size:38px;
+    }
+    .text-pocetna p span{
+        font-size:38px;
+    }
+    .text-pocetna a {
+        font-size:14px;
+    }
+}
+@media screen and (max-width:469px){
+    .text-pocetna p{
+        font-size:34px;
+    }
+    .text-pocetna p span{
+        font-size:34px;
+    }
+    .text-pocetna a {
+        font-size:12px;
+    }
+}
+@media screen and (max-width:404px){
+    .text-pocetna p{
+        font-size:32px;
+    }
+    .text-pocetna p span{
+        font-size:32px;
+    }
+    .text-pocetna a {
+        font-size:10px;
+    }
+}
+@media screen and (max-width:350px){
+    .text-pocetna p{
+        font-size:30px;
+    }
+    .text-pocetna p span{
+        font-size:30px;
+    }
+    .text-pocetna a {
+        font-size:8px;
+    }
+}
+/*home*/
+/*about*/
+@media screen and (max-width:1386px){
+    .about-text p {
+        font-size: 15px;
+    }
+    .project-box{
+        width:500px;
+        margin-bottom:30px;
+    }
+}
+@media screen and (max-width:1200px){
+    .about-text  {
+        font-size: 14px;
+        padding:35px;
+    }
+}
+@media screen and (max-width:1100px){
+    .about-text  {
+        font-size: 12px;
+        padding:25px;
+    }
+    .naslov h4{
+        font-size:23px;
+    }
+    .project-title h5{
+        font-size: 15px;
+    }
+    .project-description p{
+        font-size: 12px;
+    }
+}
+@media screen and (max-width:930px){
+    .about-text  {
+        padding:15px;
+    }
+}
+@media screen and (max-width:758px){
+    .about-image{
+        margin-bottom: 30px;
+    }
+    .about-text  {
+        width:70%;
+    }
+}
+@media screen and (max-width:381px){
+    .about-image{
+        margin-bottom: 30px;
+        width:70%;
+    }
+    .about-text  {
+        width:70%;
+    }
+}
+@media screen and (max-width:358px){
+    .social-about{
+        margin-top:20px;
+    }
+    .social-about ul li a i{
+        font-size: 15px;
+    }
+    .about-text  {
+        width:70%;
+    }
+}
+/*about*/
+@media screen and (max-width:1077px){
+    .skill-title h5{
+        font-size: 14px;
+    }
+}
+@media screen and (max-width:768px){
+    .skill-title h5{
+        margin-bottom:35px;
+    }
+    .skill-box{
+        width:200px;
+        height:200px;
+    }
+    .skill-box p {
+        font-size:13px;
+    }
+    .nalsov-services h5{
+        font-size: 14px;
+    }
+    .text-services p{
+        font-size: 12px;
+    }
+    .s-box{
+        width:200px;
+    }
+}
+@media screen and (max-width:1155px){
+    .row-skills{
+        width:100%;
+        margin-bottom: 15px;
+    }
+}
+@media screen and (max-width:545px){
+    .skill-box{
+        margin-bottom:30px;
+    }
+    .project-box{
+        width:400px;
+        margin-bottom:30px;
+    }
+}
+/*skills*/
+@media screen and (max-width:1284px){
+    .row-services{
+        width:100%;
+        margin-bottom:30px;
+    }
+    .s-box{
+        width:270px;
+        margin-bottom:50px;
+    }
+}
